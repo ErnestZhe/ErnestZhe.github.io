@@ -1,0 +1,6 @@
+
+select * from PHIS_UNIEAP.PHIS_MENU t where t.location='/ph/pages/his/extend/adr/glossary/adr_glossary_manage.jsp
+'   --1418798244350
+
+
+select * from PHIS_UNIEAP.PHIS_MENU t where t.name='1521773180768'
